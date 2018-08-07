@@ -1,8 +1,24 @@
 # Classic Arcade Game Clone
 
+Usage
+------------------
+
+Clone the game repository to your computer by using 
+
+```git clone https://github.com/TanelS/memory_game.git```
+
+or download the .zip file under `Clone of Download` button. 
+
+Then find in the root directory a file `index.html` and run it some modern browser. If you downladed .zip file, the compressed file must me uncompressed first.
+
 The Game is played by using arrow keys.
 
 The Player should cross across three lines on which ladybugs are moving with different speed.
+
+If you can make it across three lines without bumping into ladybirds you have won!
+
+Technical (and boring) details
+---------------------
 
 The speed is determined by the random function:
 
